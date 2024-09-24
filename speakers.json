@@ -1,6 +1,6 @@
 {
     "voice-api": {
-        "url": "https://ttsapi.zwei.de.eu.org/tts",
+        "url": "https://voice-wave-8b7b.sunghappy89.workers.dev/tts",
         "speakers": {
             "zh-CN-XiaoxiaoNeural": "晓晓",
             "zh-CN-YunxiNeural": "云希",
